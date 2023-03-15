@@ -1,6 +1,10 @@
 [
   {
-    "package": "isatabr",
+    "package": "statgenGxE",
+    "oncran": true
+  },
+  {
+    "package": "statgenSTA",
     "oncran": true
   },
   {
@@ -8,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "statgenGxE",
+    "package": "isatabr",
     "oncran": true
   },
   {
@@ -17,10 +21,6 @@
   },
   {
     "package": "statgenIBD",
-    "oncran": true
-  },
-  {
-    "package": "statgenSTA",
     "oncran": true
   }
 ]
