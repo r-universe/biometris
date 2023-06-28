@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "isatabr"]
 	path = isatabr
 	url = https://github.com/biometris/isatabr
-	shallow = true
-	registered = true
 [submodule "statgenGWAS"]
 	path = statgenGWAS
 	url = https://github.com/biometris/statgengwas
-	shallow = true
-	registered = true
 [submodule "statgenGxE"]
 	path = statgenGxE
 	url = https://github.com/biometris/statgengxe
-	shallow = true
-	registered = true
 [submodule "statgenHTP"]
 	path = statgenHTP
 	url = https://github.com/biometris/statgenhtp
-	shallow = true
-	registered = true
 [submodule "statgenIBD"]
 	path = statgenIBD
 	url = https://github.com/biometris/statgenibd
-	shallow = true
-	registered = true
 [submodule "statgenSTA"]
 	path = statgenSTA
 	url = https://github.com/biometris/statgensta
-	shallow = true
-	registered = true
