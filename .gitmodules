@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "LMMsolver"]
+	path = LMMsolver
+	url = https://github.com/biometris/lmmsolver
 [submodule "isatabr"]
 	path = isatabr
 	url = https://github.com/biometris/isatabr
