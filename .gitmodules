@@ -5,6 +5,9 @@
 [submodule "LMMsolver"]
 	path = LMMsolver
 	url = https://github.com/biometris/lmmsolver
+[submodule "douconca"]
+	path = douconca
+	url = https://github.com/biometris/douconca
 [submodule "isatabr"]
 	path = isatabr
 	url = https://github.com/biometris/isatabr
