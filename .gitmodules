@@ -23,6 +23,9 @@
 [submodule "statgenIBD"]
 	path = statgenIBD
 	url = https://github.com/biometris/statgenibd
+[submodule "statgenMPP"]
+	path = statgenMPP
+	url = https://github.com/biometris/statgenmpp
 [submodule "statgenSTA"]
 	path = statgenSTA
 	url = https://github.com/biometris/statgensta
